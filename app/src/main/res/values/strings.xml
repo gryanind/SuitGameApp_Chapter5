@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SuitGameApp</string>
+    <string name="txt_landing_page1">Play suit games against fellow players</string>
+    <string name="txt_landing_page2">Play suit games against the computer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_input_name">Please Input Your Name</string>
+    <string name="txt_name_filled_empty">You Should Your Name First!</string>
+    <string name="txt_player_vs_player">Player Vs Player</string>
+    <string name="txt_player_vs_computer">player vs computer</string>
+    <string name="placeholder_name_menu_game">Hello %s !!! \n Choose your Opponent</string>
+    <string name="character_choose">%s Choose %s</string>
+    <string name="txt_gamesuit">GAME SUIT</string>
+    <string name="txt_desc_paper">Paper</string>
+    <string name="txt_desc_rock">Rock</string>
+    <string name="txt_desc_scissor">Scissors</string>
+    <string name="txt_desc_home">Home</string>
+    <string name="txt_result_game">WIN</string>
+    <string name="txt_select_p1">SELECT</string>
+    <string name="txt_result">Result</string>
+    <string name="txt_play_again">Play Again</string>
+    <string name="txt_back_to_menu">Back to menu</string>
+    <string name="txt_game_winner">Computer\nWIN !!!</string>
+</resources>
